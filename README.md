@@ -1,12 +1,13 @@
 ### Hi there 👋
-I'm currently learning computer programming
-<!--
-**Stuart9306/Stuart9306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+I'm currently learning computer programming👩‍💻
+I'm currently working on building my brand and my read me profile🙃
+Im looking to collaborate with my fellow colleagues on solving various problems in the society
+I am passionate about technology, artificial intelligence, astrology 🔭 and things related to the tech universe🌍
+Fun fact about me is that at first am quiet but after you know me i become talkative and relatable😁
+You can reach me through 
+ Contact:0710574884
+ Email: munyaostewart@gmail.com
+ 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
