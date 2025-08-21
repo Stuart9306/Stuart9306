@@ -1,6 +1,6 @@
 ### Hi there 👋 am Stuart 
 # 💫 About Me:
-🔭 I’m currently working on my read me profile<br>👯 I’m looking to collaborate on building of computer <br>      softwares and generation of effective codes<br>🤝 I’m looking for help with things concerning artificial <br>      Intelligence and astronomy <br>🌱 I’m currently learning programming languages<br>      Such as python and JavaScript <br>💬 Ask me about the world and various volunteering <br>      And opportunities for young adults <br>⚡ Fun fact about me is that I enjoy watching <br>      Formula 1 and Nascar
+ I’m currently working on my read me profile<br> I’m looking to collaborate on building of computer <br>      softwares and generation of effective codes<br> I’m looking for help with things concerning artificial <br>      Intelligence and astronomy <br> I’m currently learning programming languages<br>      Such as python and JavaScript <br> Ask me about the world and various volunteering <br>      And opportunities for young adults <br> Fun fact about me is that I enjoy watching <br>      Formula 1 and Nascar
 
 
 ## 🌐 Socials:
